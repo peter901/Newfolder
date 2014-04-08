@@ -1,5 +1,12 @@
 this is text 1
+<<<<<<< HEAD
 this fdfgsdfgsdfgsdfgsdfg
 this sgsdfgsdfgssdfgsdfg
 this addfgsdffgsdfgsdfgsdfgsd
 this sgsdfgsdfgsdfgsfgsdfgsdfgsdgsdfg
+=======
+this f
+xxxx
+xxxxx
+xxxxxxx
+>>>>>>> master
